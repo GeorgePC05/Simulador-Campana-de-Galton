@@ -1,1 +1,2 @@
-# Simulador-Campana-de-Galton
+Este proyecto fue mas complicado de desarrollar, debido a que no pude integrar el condicional para que las canicas tomaran la decicion de ir a la izquierda o a la derecha. En su lugar me apoyé en la libreria numpy para generar un resultado aleatorio donde las canicas escogerían ir hacia un lado o hacia el otro. 
+Me quedo con el compromiso de continuar estudiando para poder comprender de mejor forma la logica que requiere python para hacer uso de todas sus funciones y aprovecharlas.
